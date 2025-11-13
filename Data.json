@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Ghost Detector",
+    "icon": "https://raw.githubusercontent.com/username/appstore/main/icons/ghost.png",
+    "description": "Detect paranormal activities around you.",
+    "version": "1.0",
+    "size": "8.5 MB",
+    "download": "https://example.com/ghost.apk"
+  },
+  {
+    "name": "Horror Stories",
+    "icon": "https://raw.githubusercontent.com/username/appstore/main/icons/stories.png",
+    "description": "Read scary horror stories offline.",
+    "version": "2.1",
+    "size": "12 MB",
+    "download": "https://example.com/stories.apk"
+  }
+]
